@@ -18,6 +18,15 @@ Canal de actualizacion de la app: [satinus-eirl.github.io/releases/hex-scanner.j
 - [Preprint HEX V8](https://satinus-eirl.github.io/docs/preprints/hex-v8-manuscrito-es.html)
 - [Satinus E.I.R.L.](https://satinus-eirl.github.io/)
 
+## Ecosistema (canonico)
+
+| Repo | Rol |
+|------|-----|
+| `satinus-EIRL/hex-trits-v7` | Nucleo HEX V8 (privado) |
+| `satinus-EIRL/satinus-web` | Fuente del sitio (privado) |
+| `satinus-EIRL/satinus-eirl.github.io` | Sitio publico |
+| `Satinus/hex-scanner` | Este repo — solo APK |
+
 ## Licencia
 
 El APK se ofrece de forma gratuita para evaluacion y uso didactico. El nucleo algoritmico y el know-how de implementacion permanecen bajo titularidad de **Satinus E.I.R.L.**
